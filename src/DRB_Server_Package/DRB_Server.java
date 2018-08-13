@@ -1,8 +1,7 @@
 package DRB_Server_Package;
 
 /*
-    @author Meron Menghisteab [DRT]
-    We fight for fun and joy .....
+    @author MerNat [DRT]
     
 */
 
