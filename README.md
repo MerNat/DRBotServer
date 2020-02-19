@@ -2,6 +2,6 @@
 
 Server for DRBot-Adv-Enc
 
-This simple GUI java program is a server handling the bots of (DRBot-Adv-Enc).
+This is a simple Java GUI program that controls all (DRBot-Adv-Enc) Bots.
 
 --__Enjoy__-- ;)
